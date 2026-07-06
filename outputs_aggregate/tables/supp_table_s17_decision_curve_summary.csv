@@ -1,0 +1,7 @@
+Database,Outcome,n,Events,Threshold range,Mean delta net benefit,Positive thresholds / total
+MIMIC-IV,Hospital mortality,"16,757","2,557",0.05-0.40,0.0031,7/8
+eICU,Hospital mortality,"9,275","1,912",0.05-0.40,0.0032,6/8
+SICdb,Hospital mortality,"8,274",926,0.05-0.40,0.0026,8/8
+MIMIC-IV,Post-24h organ nonrecovery,"14,634","5,415",0.10-0.70,0.0103,12/13
+eICU,Post-24h organ nonrecovery,"8,552","3,196",0.10-0.70,0.0159,12/13
+SICdb,Post-24h organ nonrecovery,"7,674","2,852",0.10-0.70,0.0117,13/13

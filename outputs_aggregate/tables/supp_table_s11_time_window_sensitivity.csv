@@ -1,0 +1,13 @@
+Window,Database,n,Deaths,OR (95% CI),P value,Random-effects OR (95% CI),I2
+"Primary: baseline 0-6 h, response 6-24 h",MIMIC-IV,"16,757","2,557",0.79 (0.76-0.83),<0.001,NA,NA
+"Primary: baseline 0-6 h, response 6-24 h",eICU,"9,275","1,912",0.76 (0.71-0.80),<0.001,NA,NA
+"Primary: baseline 0-6 h, response 6-24 h",SICdb,"8,275",926,0.66 (0.61-0.72),<0.001,NA,NA
+"Primary: baseline 0-6 h, response 6-24 h",Random-effects summary,NA,NA,NA,<0.001,0.74 (0.68-0.81),86.1%
+"Early: baseline 0-6 h, response 6-12 h",MIMIC-IV,"16,534","2,504",0.91 (0.87-0.95),<0.001,NA,NA
+"Early: baseline 0-6 h, response 6-12 h",eICU,"7,924","1,643",0.87 (0.82-0.92),<0.001,NA,NA
+"Early: baseline 0-6 h, response 6-12 h",SICdb,"8,258",924,0.74 (0.68-0.80),<0.001,NA,NA
+"Early: baseline 0-6 h, response 6-12 h",Random-effects summary,NA,NA,NA,0.001,0.84 (0.76-0.93),89.1%
+"Late: baseline 0-12 h, response 12-24 h",MIMIC-IV,"17,030","2,625",0.76 (0.73-0.80),<0.001,NA,NA
+"Late: baseline 0-12 h, response 12-24 h",eICU,"8,734","1,963",0.74 (0.70-0.78),<0.001,NA,NA
+"Late: baseline 0-12 h, response 12-24 h",SICdb,"8,379",945,0.71 (0.65-0.76),<0.001,NA,NA
+"Late: baseline 0-12 h, response 12-24 h",Random-effects summary,NA,NA,NA,<0.001,0.74 (0.71-0.77),38.7%

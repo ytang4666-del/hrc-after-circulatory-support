@@ -1,0 +1,13 @@
+database,phenotype,n,endpoint,rate
+MIMIC-IV,Organ recovered,9727,Hospital death,0.0829649429423255
+MIMIC-IV,Organ recovered,9727,24-72 h organ nonrecovery,0.197349042709867
+MIMIC-IV,Organ not recovered,5066,Hospital death,0.264113699170944
+MIMIC-IV,Organ not recovered,5066,24-72 h organ nonrecovery,0.635654008438819
+eICU,Organ recovered,4957,Hospital death,0.134557191849909
+eICU,Organ recovered,4957,24-72 h organ nonrecovery,0.194655659352596
+eICU,Organ not recovered,3229,Hospital death,0.289873025704552
+eICU,Organ not recovered,3229,24-72 h organ nonrecovery,0.627404657441782
+SICdb,Organ recovered,4547,Hospital death,0.0525621288761821
+SICdb,Organ recovered,4547,24-72 h organ nonrecovery,0.231627906976744
+SICdb,Organ not recovered,2500,Hospital death,0.1652
+SICdb,Organ not recovered,2500,24-72 h organ nonrecovery,0.58512544802867394

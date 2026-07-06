@@ -1,0 +1,7 @@
+Database,Analysis,n,Deaths,OR (95% CI),P value,Max complete-vs-incomplete abs SMD,Variable with max SMD
+MIMIC-IV,IPW complete-case HRC,"16,757","2,557",0.76 (0.73-0.80),<0.001,0.761,baseline_uo_ml_kg_h
+MIMIC-IV,MICE covariate-imputation sensitivity,"16,757","2,557",0.78 (0.74-0.81),<0.001,0.761,baseline_uo_ml_kg_h
+eICU,IPW complete-case HRC,"9,275","1,912",0.76 (0.72-0.80),<0.001,0.173,baseline_uo_ml_kg_h
+eICU,MICE covariate-imputation sensitivity,"9,275","1,912",0.75 (0.71-0.80),<0.001,0.173,baseline_uo_ml_kg_h
+SICdb,IPW complete-case HRC,"8,275",926,0.67 (0.62-0.72),<0.001,0.431,baseline_uo_ml_kg_h
+SICdb,MICE covariate-imputation sensitivity,"8,274",926,0.66 (0.61-0.72),<0.001,0.431,baseline_uo_ml_kg_h

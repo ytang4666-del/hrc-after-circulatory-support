@@ -1,0 +1,6 @@
+Database,Endpoint,n,Events,OR (95% CI),P value
+MIMIC-IV,24-72 h organ nonrecovery,"14,634","5,415",0.64 (0.62-0.67),<0.001
+eICU,24-72 h organ nonrecovery,"8,552","3,196",0.57 (0.54-0.60),<0.001
+SICdb,24-72 h organ nonrecovery,"7,674","2,852",0.62 (0.59-0.65),<0.001
+Random-effects summary,24-72 h organ nonrecovery,NA,NA,0.61 (0.57-0.66),NA
+Between-database heterogeneity,Q p=0.002; I2=84.2%,NA,NA,NA,NA

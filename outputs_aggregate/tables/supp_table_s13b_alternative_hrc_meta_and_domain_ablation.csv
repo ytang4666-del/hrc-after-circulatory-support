@@ -1,0 +1,13 @@
+Analysis,Random-effects OR (95% CI),I2
+GAM expected-recovery HRC,0.65 (0.59-0.71),86.7%
+No-leakage baseline HRC,0.65 (0.59-0.71),86.0%
+Primary HRC with index-hour adjustment,0.74 (0.68-0.80),83.9%
+Fluid-adjusted outcome,0.76 (0.74-0.79),0.0%
+Simplified HRC outcome,0.62 (0.56-0.69),87.5%
+Domain ablation: MAP residual only,0.91 (0.81-1.02),91.0%
+Domain ablation: Vaso residual only,0.78 (0.74-0.83),72.1%
+Domain ablation: Urine residual only,0.78 (0.75-0.81),0.0%
+Domain ablation: MAP + Vaso,0.79 (0.73-0.85),83.1%
+Domain ablation: MAP + Urine,0.80 (0.74-0.87),81.4%
+Domain ablation: Vaso + Urine,0.72 (0.69-0.75),52.0%
+Domain ablation: Core all domains,0.73 (0.68-0.79),76.8%

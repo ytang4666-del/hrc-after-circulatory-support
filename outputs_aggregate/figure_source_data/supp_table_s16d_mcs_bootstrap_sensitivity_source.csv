@@ -1,0 +1,7 @@
+subgroup,n,deaths,odds_ratio,bootstrap_ci_low,bootstrap_ci_high,bootstrap_success,note
+CS or MCS,1815,518,0.802765328209589,0.721730240743731,0.875453107264627,500,Bootstrap CI from reduced adjustment model due small MCS subgroups.
+Any MCS during ICU,596,150,0.81429543258384,0.663618551929282,0.95668209579789,500,Bootstrap CI from reduced adjustment model due small MCS subgroups.
+MCS during 0-24h,367,93,0.847785782135253,0.666203134627454,1.05795763287761,500,Bootstrap CI from reduced adjustment model due small MCS subgroups.
+IABP,505,108,0.860425351292638,0.691794910962542,1.05248177787037,500,Bootstrap CI from reduced adjustment model due small MCS subgroups.
+Impella,82,36,0.759352006996704,0.455332818940033,1.1319098924363,500,Bootstrap CI from reduced adjustment model due small MCS subgroups.
+ECMO,48,28,0.806361940721776,0.325631507881739,1.39491150701358,500,Bootstrap CI from reduced adjustment model due small MCS subgroups.

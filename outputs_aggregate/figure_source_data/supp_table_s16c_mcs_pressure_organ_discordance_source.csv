@@ -1,0 +1,4 @@
+database,discordant_group,n,deaths,mortality,post24_organ_nonrecovery_events,post24_organ_nonrecovery_rate,median_hrc,discordance_label
+MIMIC-IV MCS 0-24h,MAP_restored_organ_recovered,197,28,0.142131979695431,49,0.26063829787234,0.209001392032594,MAP restored and organ recovery
+MIMIC-IV MCS 0-24h,MAP_restored_organ_not_recovered,145,54,0.372413793103448,99,0.682758620689655,-0.464988085686082,MAP restored without organ recovery
+MIMIC-IV MCS 0-24h,MAP_not_restored,25,11,0.44,17,0.708333333333333,-0.971990804447401,MAP not restored

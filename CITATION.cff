@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: Hemodynamic Recovery Capacity After Early Circulatory Support Across Three Critical Care Databases
+message: "If you use this code, please cite the associated manuscript and Zenodo release."
+type: software
+authors:
+  - family-names: AUTHOR_TO_CONFIRM
+    given-names: AUTHOR_TO_CONFIRM
+repository-code: "TO_BE_ADDED_AFTER_GITHUB_RELEASE"
+doi: "TO_BE_ADDED_AFTER_ZENODO_RELEASE"
+date-released: "2026-07-06"
+license: MIT
+keywords:
+  - critical care
+  - hemodynamics
+  - circulatory support
+  - MIMIC-IV
+  - eICU
+  - SICdb

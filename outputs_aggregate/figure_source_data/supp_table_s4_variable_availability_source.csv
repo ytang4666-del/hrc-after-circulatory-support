@@ -1,0 +1,37 @@
+database,assessment_set,domain,complete_n,denominator_n,availability_percent
+MIMIC-IV,Formal early-support cohort,All core observed HRC requirements,16757,17966,0.9327062228654125
+MIMIC-IV,Formal early-support cohort,Baseline and response MAP,17950,17966,0.9991094289212957
+MIMIC-IV,Formal early-support cohort,Baseline and response creatinine,12436,17966,0.6921963709228542
+MIMIC-IV,Formal early-support cohort,Baseline and response lactate,6912,17966,0.38472670600022263
+MIMIC-IV,Formal early-support cohort,"Baseline and response urine output, weight-normalized",16763,17966,0.9330401870199265
+MIMIC-IV,Formal early-support cohort,Baseline and response vasoactive support,17966,17966,1
+MIMIC-IV,Formal early-support cohort,Post-landmark hospital mortality,17966,17966,1
+MIMIC-IV,Primary HRC analytic cohort,0-24 h fluid covariate,16757,16757,1
+MIMIC-IV,Primary HRC analytic cohort,24-72 h creatinine summary,13645,16757,0.8142865668079011
+MIMIC-IV,Primary HRC analytic cohort,24-72 h lactate summary,6218,16757,0.3710688070657039
+MIMIC-IV,Primary HRC analytic cohort,24-72 h organ nonrecovery evaluable,14634,16757,0.8733066778062899
+MIMIC-IV,Primary HRC analytic cohort,Baseline and response CVP,8303,16757,0.4954944202422868
+eICU,Formal early-support cohort,All core observed HRC requirements,9275,16677,0.5561551837860527
+eICU,Formal early-support cohort,Baseline and response MAP,16467,16677,0.9874078071595611
+eICU,Formal early-support cohort,Baseline and response creatinine,5655,16677,0.33908976434610544
+eICU,Formal early-support cohort,Baseline and response lactate,3138,16677,0.18816333872998742
+eICU,Formal early-support cohort,"Baseline and response urine output, weight-normalized",10671,16677,0.6398632847634467
+eICU,Formal early-support cohort,Baseline and response vasoactive support,14730,16677,0.8832523835222162
+eICU,Formal early-support cohort,Post-landmark hospital mortality,16677,16677,1
+eICU,Primary HRC analytic cohort,0-24 h fluid covariate,9275,9275,1
+eICU,Primary HRC analytic cohort,24-72 h creatinine summary,8090,9275,0.8722371967654986
+eICU,Primary HRC analytic cohort,24-72 h lactate summary,2222,9275,0.2395687331536388
+eICU,Primary HRC analytic cohort,24-72 h organ nonrecovery evaluable,8552,9275,0.9220485175202157
+eICU,Primary HRC analytic cohort,Baseline and response CVP,NA,NA,NA
+SICdb,Formal early-support cohort,All core observed HRC requirements,8275,8700,0.9511494252873564
+SICdb,Formal early-support cohort,Baseline and response MAP,8696,8700,0.9995402298850574
+SICdb,Formal early-support cohort,Baseline and response creatinine,2925,8700,0.33620689655172414
+SICdb,Formal early-support cohort,Baseline and response lactate,8592,8700,0.9875862068965517
+SICdb,Formal early-support cohort,"Baseline and response urine output, weight-normalized",8277,8700,0.9513793103448276
+SICdb,Formal early-support cohort,Baseline and response vasoactive support,8700,8700,1
+SICdb,Formal early-support cohort,Post-landmark hospital mortality,8700,8700,1
+SICdb,Primary HRC analytic cohort,0-24 h fluid covariate,8274,8274,1
+SICdb,Primary HRC analytic cohort,24-72 h creatinine summary,7529,8274,0.9099589074208364
+SICdb,Primary HRC analytic cohort,24-72 h lactate summary,7752,8274,0.9369108049311095
+SICdb,Primary HRC analytic cohort,24-72 h organ nonrecovery evaluable,7674,8274,0.9274836838288615
+SICdb,Primary HRC analytic cohort,Baseline and response CVP,NA,NA,NA

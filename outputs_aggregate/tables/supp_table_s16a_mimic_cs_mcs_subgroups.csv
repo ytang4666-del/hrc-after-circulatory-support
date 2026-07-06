@@ -1,0 +1,10 @@
+Subgroup,n,Deaths,Mortality,Low-HRC n,Low-HRC mortality,Non-low-HRC mortality,Median HRC
+Overall MIMIC-IV formal cohort,"16,757","2,557",15.3%,"4,190",21.1%,13.3%,-0.02
+No cardiogenic shock/MCS,"14,942","2,039",13.6%,"3,688",18.8%,12.0%,-0.03
+Cardiogenic shock ICD,"1,593",494,31.0%,458,39.3%,27.7%,0.05
+Cardiogenic shock or any MCS,"1,815",518,28.5%,502,38.0%,24.9%,0.05
+Any MCS during ICU stay,596,150,25.2%,169,37.3%,20.4%,-0.01
+MCS initiated/recorded during 0-24 h,367,93,25.3%,111,36.0%,20.7%,0.01
+IABP,505,108,21.4%,131,30.5%,18.2%,0.02
+Impella,82,36,43.9%,35,51.4%,38.3%,-0.32
+ECMO,48,28,58.3%,23,69.6%,48.0%,-0.56

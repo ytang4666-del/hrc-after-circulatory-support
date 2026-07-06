@@ -1,0 +1,5 @@
+Low-HRC definition,Exposure,Random-effects OR (95% CI),I2,Q-test P value
+Lowest 10%,low-HRC versus non-low HRC,2.11 (1.81-2.46),59.3%,0.085
+Lowest 20%,low-HRC versus non-low HRC,1.87 (1.66-2.11),56.4%,0.101
+Lowest 25% (primary clinical category),low-HRC versus non-low HRC,1.84 (1.61-2.11),70.2%,0.035
+Lowest 33%,low-HRC versus non-low HRC,1.76 (1.54-2.02),73.2%,0.024

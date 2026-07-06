@@ -1,0 +1,7 @@
+database,outcome,label,n,events,threshold_min,threshold_max,mean_delta_net_benefit,positive_delta_thresholds,total_thresholds
+MIMIC-IV,outcome,Hospital mortality,16757,2557,0.05,0.4,0.00311131719415463,7,8
+eICU,outcome,Hospital mortality,9275,1912,0.05,0.4,0.0031863364855529,6,8
+SICdb,outcome,Hospital mortality,8274,926,0.05,0.4,0.00263987447942315,8,8
+MIMIC-IV,organ_nonrecovery_24_72,Post-24h organ nonrecovery,14634,5415,0.1,0.7,0.0103025372303914,12,13
+eICU,organ_nonrecovery_24_72,Post-24h organ nonrecovery,8552,3196,0.1,0.7,0.0159312247244365,12,13
+SICdb,organ_nonrecovery_24_72,Post-24h organ nonrecovery,7674,2852,0.1,0.7,0.0116577909873011,13,13

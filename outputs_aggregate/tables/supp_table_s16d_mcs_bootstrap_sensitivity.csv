@@ -1,0 +1,7 @@
+Subgroup,n,Deaths,OR per 1-SD higher HRC (bootstrap 95% CI),Bootstrap replicates,Note
+Cardiogenic shock or any MCS,"1,815",518,0.80 (0.72-0.88),500,Bootstrap CI from reduced adjustment model due small MCS subgroups.
+Any MCS during ICU stay,596,150,0.81 (0.66-0.96),500,Bootstrap CI from reduced adjustment model due small MCS subgroups.
+MCS initiated/recorded during 0-24 h,367,93,0.85 (0.67-1.06),500,Bootstrap CI from reduced adjustment model due small MCS subgroups.
+IABP,505,108,0.86 (0.69-1.05),500,Bootstrap CI from reduced adjustment model due small MCS subgroups.
+Impella,82,36,0.76 (0.46-1.13),500,Bootstrap CI from reduced adjustment model due small MCS subgroups.
+ECMO,48,28,0.81 (0.33-1.39),500,Bootstrap CI from reduced adjustment model due small MCS subgroups.

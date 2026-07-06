@@ -1,0 +1,22 @@
+Database,Variant,n,Deaths,OR (95% CI),P value,Note
+MIMIC-IV,Adjusted for measurement frequency,"16,757","2,557",0.75 (0.72-0.79),<0.001,
+eICU,Adjusted for measurement frequency,"9,275","1,912",0.76 (0.72-0.80),<0.001,
+SICdb,Adjusted for measurement frequency,"8,275",926,0.69 (0.63-0.74),<0.001,
+MIMIC-IV,GAM expected-recovery HRC,"16,757","2,557",0.68 (0.66-0.72),<0.001,
+eICU,GAM expected-recovery HRC,"9,275","1,912",0.67 (0.64-0.71),<0.001,
+SICdb,GAM expected-recovery HRC,"8,275",926,0.57 (0.53-0.62),<0.001,
+MIMIC-IV,HRC adjusted for fluid balance/exposure,"16,757","2,557",0.75 (0.72-0.78),<0.001,
+eICU,HRC adjusted for fluid balance/exposure,"9,275","1,912",0.78 (0.74-0.82),<0.001,
+SICdb,HRC adjusted for fluid balance/exposure,"8,274",926,0.76 (0.70-0.82),<0.001,
+MIMIC-IV,No-leakage baseline HRC,"16,757","2,557",0.68 (0.65-0.71),<0.001,
+eICU,No-leakage baseline HRC,"9,275","1,912",0.67 (0.64-0.71),<0.001,
+SICdb,No-leakage baseline HRC,"8,275",926,0.57 (0.53-0.62),<0.001,
+MIMIC-IV,PCA-weighted HRC,"16,757","2,557",0.77 (0.73-0.80),<0.001,PC1 variance 37.8%; hrc_map_residual_z 0.624; hrc_vaso_residual_z 0.355; hrc_uo_residual_z 0.696
+eICU,PCA-weighted HRC,"9,275","1,912",0.78 (0.74-0.83),<0.001,PC1 variance 38.4%; hrc_map_residual_z 0.686; hrc_vaso_residual_z 0.290; hrc_uo_residual_z 0.667
+SICdb,PCA-weighted HRC,"8,275",926,0.68 (0.62-0.73),<0.001,PC1 variance 45.8%; hrc_map_residual_z 0.697; hrc_vaso_residual_z 0.634; hrc_uo_residual_z 0.336
+MIMIC-IV,Primary HRC with index-hour adjustment,"16,757","2,557",0.78 (0.75-0.82),<0.001,
+eICU,Primary HRC with index-hour adjustment,"9,275","1,912",0.75 (0.71-0.80),<0.001,
+SICdb,Primary HRC with index-hour adjustment,"8,274",926,0.66 (0.61-0.72),<0.001,
+MIMIC-IV,Simplified raw-domain HRC,"16,757","2,557",0.66 (0.63-0.70),<0.001,
+eICU,Simplified raw-domain HRC,"9,275","1,912",0.65 (0.61-0.69),<0.001,
+SICdb,Simplified raw-domain HRC,"8,274",926,0.54 (0.49-0.59),<0.001,

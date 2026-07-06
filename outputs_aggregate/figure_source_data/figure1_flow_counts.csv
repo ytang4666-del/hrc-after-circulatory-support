@@ -1,0 +1,16 @@
+database,step,metric,n
+MIMIC-IV,Adult ICU stays/cases,adult_valid_icu_stays,94444
+MIMIC-IV,Early vasoactive support,early_vaso_support_stays,24176
+MIMIC-IV,24-h landmark eligible,landmark_eligible_stays,20836
+MIMIC-IV,First support stay/case,formal_first_patient_support_stays,17966
+MIMIC-IV,Core HRC analytic cohort,core_hrc_complete_rows,16757
+eICU,Adult ICU stays/cases,adult_valid_icu_stays,197292
+eICU,Early vasoactive support,early_vasoactive_support_stays,22427
+eICU,24-h landmark eligible,landmark_eligible_stays,18253
+eICU,First support stay/case,formal_first_patient_support_stays,16677
+eICU,Core HRC analytic cohort,core_hrc_complete_rows,9275
+SICdb,Adult ICU stays/cases,adult_valid_icu_cases,27223
+SICdb,Early vasoactive support,early_vasoactive_support_cases,11328
+SICdb,24-h landmark eligible,landmark_eligible_cases,9521
+SICdb,First support stay/case,formal_first_patient_support_cases,8700
+SICdb,Core HRC analytic cohort,core_hrc_complete_rows,8274

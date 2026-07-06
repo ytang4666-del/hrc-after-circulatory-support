@@ -1,0 +1,4 @@
+Group,n,Deaths,Mortality,24-72 h organ nonrecovery events,24-72 h organ nonrecovery,Median HRC
+MAP restored and organ recovery,197,28,14.2%,49,26.1%,0.21
+MAP restored without organ recovery,145,54,37.2%,99,68.3%,-0.46
+MAP not restored,25,11,44.0%,17,70.8%,-0.97

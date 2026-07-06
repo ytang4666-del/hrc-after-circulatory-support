@@ -1,0 +1,23 @@
+Item,Reporting_element,Manuscript_or_supplement_location,Status
+1,"Title and abstract identify the design, data sources, and major finding.",Title; Abstract,Drafted; line numbers pending final formatting
+2,Scientific background and rationale.,"Introduction, paragraphs 1-3",Drafted
+3,Specific objectives and hypothesis.,End of Introduction,Drafted
+4,Study design presented early.,Methods: Study design and data sources; Figure 1,Drafted
+5,"Setting, databases, eligibility period, and database roles.",Methods: Study design and data sources; Supplementary Table S2,Needs final database version/date details
+6,"Participants, eligibility criteria, exclusions, and cohort flow.",Methods: Study population; Figure 1; Supplementary Table S3,Drafted
+7,Variables and definitions.,Methods: Variables; Supplementary Table S2,Drafted
+8,Data sources and measurement rules.,Methods: Variable harmonization; Supplementary Tables S2 and S4,Drafted
+9,Bias and missingness considerations.,Methods: Sensitivity analyses; Supplementary Tables S4-S6,Drafted
+10,Study size.,Results: Cohort construction; Figure 1; Supplementary Table S3,Drafted
+11,Quantitative variable handling.,Methods: HRC construction; Supplementary Table S5,Drafted
+12,"Statistical methods, confounding adjustment, subgroup and sensitivity analyses.",Methods: Statistical analysis; Supplementary Tables S5-S8,Drafted
+13,Participant flow and missing data at each stage.,Figure 1; Supplementary Tables S3-S4,Drafted
+14,Descriptive data and baseline characteristics.,Table 1; Supplementary Table S4,Drafted
+15,Outcome data.,Results; Supplementary Tables S7-S8,Drafted
+16,Main results with estimates and precision.,Results; Figure 2; Supplementary Table S7,Drafted
+17,"Other analyses, sensitivity analyses, and robustness checks.",Results; Figure 4; Supplementary Tables S6-S8,Drafted
+18,Key results summarized with study objectives.,"Discussion, opening paragraph",Drafted
+19,Limitations.,Discussion: Strengths and limitations,Drafted
+20,Interpretation calibrated to observational design.,Discussion,Drafted
+21,Generalisability.,Discussion,Drafted
+22,Funding and role of funders.,Declarations,Needs author input

@@ -1,0 +1,10 @@
+database,component,observed_variable,scoring_n,primary_analytic_n,oof_rmse,oof_r2
+MIMIC-IV,MAP recovery,delta_map,16757,16757,6.54362226970846,0.305771515631384
+MIMIC-IV,Vasopressor reduction,log_neq_reduction,16757,16757,0.139726750411253,0.132960829663376
+MIMIC-IV,Urine output recovery,log_uo_recovery,16757,16757,0.102835299791057,0.550721967872115
+eICU,MAP recovery,delta_map,9275,9275,6.94906459861662,0.281680611262433
+eICU,Vasopressor-burden reduction,log_vaso_burden_reduction,9275,9275,0.0619305073514798,0.134485108947444
+eICU,Urine output recovery,log_uo_recovery,9275,9275,0.118663504028495,0.454214396518494
+SICdb,MAP recovery,delta_map,8275,8274,6.59109326050079,0.189418850607291
+SICdb,Vasopressor-burden reduction,log_vaso_burden_reduction,8275,8274,0.0989562751358493,0.18362687224643
+SICdb,Urine output recovery,log_uo_recovery,8275,8274,0.0947826002925873,0.545984952652069

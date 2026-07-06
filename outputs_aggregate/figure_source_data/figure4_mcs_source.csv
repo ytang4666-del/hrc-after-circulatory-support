@@ -1,0 +1,4 @@
+database,endpoint,analysis,n,events,beta,se,odds_ratio,ci_low,ci_high,p_value,endpoint_label,label
+MIMIC-IV,outcome,MCS 0-24h mortality HRC association,367,93,-0.157314413910429,0.110838644940204,0.854435370214223,0.687595763974169,1.06175727094872,0.155808613913326,Mortality,0.85 (0.69-1.06)
+MIMIC-IV,organ_nonrecovery_24_72,MCS 0-24h post24 organ nonrecovery HRC association,357,165,-0.14358055240224,0.103472547109697,0.866251018776247,0.707241548890097,1.06101066701823,0.165252856995852,Organ nonrecovery,0.87 (0.71-1.06)
+MIMIC-IV,support_or_organ_nonrecovery_24_72,MCS 0-24h support/organ nonrecovery HRC association,367,295,-0.356543964342843,0.154551484121646,0.700091691721863,0.51713086796551,0.947784027563928,0.0210570961084258,Support/organ nonrecovery,0.70 (0.52-0.95)

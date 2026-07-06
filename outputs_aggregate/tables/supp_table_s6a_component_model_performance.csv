@@ -1,0 +1,10 @@
+Database,Component,Observed response variable,HRC scoring n,Primary analytic n,Out-of-fold RMSE,Out-of-fold R2
+MIMIC-IV,MAP recovery,delta_map,"16,757","16,757",6.544,0.306
+MIMIC-IV,Vasopressor reduction,log_neq_reduction,"16,757","16,757",0.140,0.133
+MIMIC-IV,Urine output recovery,log_uo_recovery,"16,757","16,757",0.103,0.551
+eICU,MAP recovery,delta_map,"9,275","9,275",6.949,0.282
+eICU,Vasopressor-burden reduction,log_vaso_burden_reduction,"9,275","9,275",0.062,0.134
+eICU,Urine output recovery,log_uo_recovery,"9,275","9,275",0.119,0.454
+SICdb,MAP recovery,delta_map,"8,275","8,274",6.591,0.189
+SICdb,Vasopressor-burden reduction,log_vaso_burden_reduction,"8,275","8,274",0.099,0.184
+SICdb,Urine output recovery,log_uo_recovery,"8,275","8,274",0.095,0.546

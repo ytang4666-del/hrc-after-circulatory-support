@@ -1,0 +1,4 @@
+Database,HRC scoring n,Primary analytic n,HRC mean,HRC SD,HRC median [IQR],MAP-vasopressor residual rho,MAP-urine residual rho,Vasopressor-urine residual rho,Simplified HRC correlation rho
+MIMIC-IV,"16,757","16,757",-0.000,1.000,-0.02 [-0.58-0.58],0.039,0.121,0.054,0.774
+eICU,"9,275","9,275",0.000,1.000,-0.03 [-0.60-0.58],0.016,0.141,0.018,0.836
+SICdb,"8,275","8,274",-0.000,1.000,-0.06 [-0.69-0.63],0.318,0.166,0.038,0.863

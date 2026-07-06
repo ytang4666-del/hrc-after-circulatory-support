@@ -1,0 +1,3 @@
+Database,Endpoint,n,Events,OR per 1-SD higher HRC (95% CI),P value
+MIMIC-IV,Post-landmark hospital mortality,"9,343",988,0.74 (0.69-0.79),<0.001
+MIMIC-IV,24-72 h organ nonrecovery,"7,679","3,074",0.66 (0.63-0.70),<0.001

@@ -1,0 +1,4 @@
+Database,Endpoint,Analysis,n,Events,OR per 1-SD higher HRC (95% CI),P value
+MIMIC-IV,Post-landmark hospital mortality,MCS 0-24h mortality HRC association,367,93,0.85 (0.69-1.06),0.156
+MIMIC-IV,24-72 h organ nonrecovery,MCS 0-24h post24 organ nonrecovery HRC association,357,165,0.87 (0.71-1.06),0.165
+MIMIC-IV,24-72 h support or organ nonrecovery,MCS 0-24h support/organ nonrecovery HRC association,367,295,0.70 (0.52-0.95),0.021
