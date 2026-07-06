@@ -54,6 +54,6 @@ hemodynamics; circulatory support; vasopressors; organ perfusion; critical care
 
 - Ethics: de-identified MIMIC-IV v3.1, eICU-CRD v2.0, and SICdb v1.0.8 database analysis; no additional local institutional review board approval required.
 - Data availability: patient-level data are available through PhysioNet subject to database credentialing and data-use agreements.
-- Code availability: GitHub repository and Zenodo DOI to be added after release.
+- Code availability: https://github.com/ytang4666-del/hrc-after-circulatory-support; Zenodo DOI to be added after tagged release.
 - Funding: none.
 - Competing interests: none declared.

@@ -14,7 +14,7 @@ We believe the manuscript is well aligned with Annals of Intensive Care because 
 
 This manuscript has not been published previously and is not under consideration elsewhere. All authors have approved the manuscript for submission. The authors declare no competing interests. This research received no specific grant from any funding agency in the public, commercial, or not-for-profit sectors.
 
-The study used only de-identified data from credential-accessible or publicly available critical care databases. Raw patient-level data are not redistributed by the authors because access is governed by the original database licenses and data-use agreements. Analysis code will be made available in a public GitHub repository, with an archived Zenodo release DOI, before submission or upon acceptance.
+The study used only de-identified data from credential-accessible or publicly available critical care databases. Raw patient-level data are not redistributed by the authors because access is governed by the original database licenses and data-use agreements. Analysis code is available at https://github.com/ytang4666-del/hrc-after-circulatory-support, with a Zenodo archived release DOI to be added after a tagged release is created.
 
 Thank you for considering our manuscript. We would be grateful for the opportunity to have it reviewed by Annals of Intensive Care.
 

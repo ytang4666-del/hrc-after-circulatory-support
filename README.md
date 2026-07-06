@@ -99,4 +99,8 @@ Key R packages included `ggplot2`, `patchwork`, `svglite`, `ragg`, `stringr`, `d
 
 ## Citation
 
-If using this code, cite the associated manuscript and the archived Zenodo release DOI once available.
+If using this code, cite the associated manuscript and this repository:
+
+https://github.com/ytang4666-del/hrc-after-circulatory-support
+
+An archived Zenodo release DOI will be added after a tagged release is created.

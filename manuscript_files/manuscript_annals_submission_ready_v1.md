@@ -142,7 +142,7 @@ The raw patient-level data are not redistributed by the authors because access i
 
 ### Code availability
 
-Analysis code for cohort construction, variable harmonization, HRC construction, statistical modeling, sensitivity analyses, and figure generation will be made available in a public GitHub repository, with an archived release DOI generated through Zenodo before submission or upon acceptance. The repository will exclude database credentials, local paths, and patient-level derived datasets. Repository URL and Zenodo DOI: to be added after repository release.
+Analysis code for cohort construction, variable harmonization, HRC construction, statistical modeling, sensitivity analyses, and figure generation is available at https://github.com/ytang4666-del/hrc-after-circulatory-support. The repository excludes database credentials, local paths, and patient-level derived datasets. An archived Zenodo DOI will be added after a tagged release is created.
 
 ### Competing interests
 
